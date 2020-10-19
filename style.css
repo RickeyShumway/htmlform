@@ -1,0 +1,38 @@
+body {
+    margin: 350px;
+}
+.content {
+    border: 1px solid black;
+    font-family: 'Krona One';
+    width: 350px;
+    text-align: center;
+    margin: auto;
+    border-radius: 10px;
+    font-weight: lighter;
+}
+h1 {
+    padding: 10px;
+}
+form {
+    font-weight: 500;
+}
+label {
+    margin: 100px 0;
+}
+input {
+    margin: 5px;
+    padding: 8px;
+}
+input[type=submit] {
+    width: 300px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+    background-color: white;
+    border-radius: 10px;
+    border-color: lightgray;
+    color: gray;
+    border-style: ridge;
+}
+input[type=text] {
+    margin: 5px;
+}
